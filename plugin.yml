@@ -1,0 +1,11 @@
+name: DailyReward
+version: 1.0
+author: StuckDexter
+api: [3.0.0-ALPHA11]
+main: StuckDexter\dailyreward
+commands:
+  reward:
+    description: Main DailyReward Command
+permissions:
+  reward.main:
+    default: op
