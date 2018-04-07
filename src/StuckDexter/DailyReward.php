@@ -97,4 +97,4 @@ public function __construct(DailyReward $plugin) {
     }
     }
 
-?>
+
