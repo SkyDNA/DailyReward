@@ -1,5 +1,5 @@
 name: DailyReward
-version: 1.0
+version: 1.8
 author: StuckDexter
 api: [3.0.0-ALPHA11]
 main: StuckDexter\dailyreward
